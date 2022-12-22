@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Metallica";   /*Can be any text*/
+    src: local("Pastor of Muppets"),
+      url("./fonts/Pastor\ of\ Muppets.TTF") format("truetype");
+  }
+
+h1 {
+    font-family: "Metallica";
+    font-weight: 200;
+    color: #0ccac4;
+}
