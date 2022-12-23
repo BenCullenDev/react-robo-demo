@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Metallica";   /*Can be any text*/
     src: local("Pastor of Muppets"),
-      url("./fonts/Pastor\ of\ Muppets.TTF") format("truetype");
+      url("../fonts/Pastor\ of\ Muppets.TTF") format("truetype");
   }
 
 h1 {
