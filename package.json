@@ -1,6 +1,6 @@
 {
   "name": "react-robo-demo",
-  "homepage": "https://bencullendev.github.io/react-robo-demo/",
+  "homepage": "https://bencullendev.github.io/react-robo-demo/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
