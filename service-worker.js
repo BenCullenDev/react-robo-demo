@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-robo-demo/index.html/precache-manifest.d3b0eb7e2160fcb500d1ed6276ba5d47.js"
+  "/react-robo-demo/precache-manifest.f3c76f1498131b18e0d688fd310142b7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-robo-demo/index.html/index.html", {
+workbox.routing.registerNavigationRoute("/react-robo-demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
