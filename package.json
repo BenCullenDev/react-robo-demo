@@ -1,6 +1,6 @@
 {
   "name": "react-robo-demo",
-  "homepage": "BenCullenDev.github.io/react-robo-demo",
+  "homepage": "https://bencullendev.github.io/react-robo-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "pre-deploy": "npm run build",
-    "deploy": "gh-pages - d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts  --openssl-legacy-provider build",
     "test": "react-scripts test",
